@@ -1,0 +1,4 @@
+0 baykuş
+1 koyun
+2 kedi
+3 at
